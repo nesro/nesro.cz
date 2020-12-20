@@ -1,5 +1,5 @@
 <script>
-	import me from 'images/me.jpg';
+	//import me from 'images/me.jpg';
 </script>
 
 <style>
@@ -47,8 +47,8 @@
 
 <p>Mám <a target="_blank" href="https://github.com/nesro">Github</a> a <a target="_blank" href="https://www.linkedin.com/in/tom%C3%A1%C5%A1-nesrovnal-04100530/">LinkedIn</a>. Nějaké plány na rozšíření tohohle webu mám, zůstaňte naladěni.</p>
 
-<figure>
-	<img alt="Tomáš Nesrovnal" src="{me}">
+<!--<figure>
+	<img alt="Tomáš Nesrovnal" src="">
 	<figcaption>Stále mám v plánu si pořídit profesionální fotku</figcaption>
-</figure>
+</figure>-->
 
